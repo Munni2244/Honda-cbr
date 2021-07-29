@@ -27,3 +27,14 @@ header{
 .license-title {
 
 }
+.honda-footer h6 a{
+ text-decoration: none;
+ color: white;
+}
+.honda-footer h5 a{
+ text-decoration: none;
+ color: white;
+}
+.footer-icon{
+    border-radius: 15px;
+}
