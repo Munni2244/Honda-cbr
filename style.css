@@ -8,11 +8,22 @@ header{
     border: none;
     border-radius: 5px;
 }
+.honda-modal a{
+ text-decoration: none;
+ color: black;
+
+}
 .fetured-item{
     color: #E76F51;
 
 }
+.fetured-bike{
+    filter: grayscale(100%);
+}
 .feedback-img{
     width: 149px;
+
+}
+.license-title {
 
 }
